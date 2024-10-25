@@ -1,0 +1,2 @@
+ A feature in NumPy to perform element-wise operations on arrays with differing shapes, making computations like row-wise normalization efficient.
+ To normalize each row in a 2D NumPy array using broadcasting, which is essential for data preprocessing in machine learning.
